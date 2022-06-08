@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="941bcfc9132d4faeb9c15e175e4a087c" Name="Diagram1" >
+        <EntityTypeShape EntityType="RestGest.Pessoa" Width="1.5" PointX="0.625" PointY="1.625" />
+        <EntityTypeShape EntityType="RestGest.Morada" Width="1.5" PointX="3.375" PointY="0.5" />
+        <EntityTypeShape EntityType="RestGest.Restaurante" Width="1.5" PointX="6.875" PointY="2.25" />
+        <EntityTypeShape EntityType="RestGest.Trabalhador" Width="1.5" PointX="3.625" PointY="3.625" />
+        <EntityTypeShape EntityType="RestGest.Cliente" Width="1.5" PointX="0.5" PointY="4.625" />
+        <EntityTypeShape EntityType="RestGest.Pagamento" Width="1.5" PointX="0.75" PointY="7.5" />
+        <EntityTypeShape EntityType="RestGest.Pedido" Width="1.5" PointX="3" PointY="7" />
+        <EntityTypeShape EntityType="RestGest.Estado" Width="1.5" PointX="4.875" PointY="6.375" />
+        <EntityTypeShape EntityType="RestGest.Categoria" Width="1.5" PointX="6.125" PointY="8.375" />
+        <EntityTypeShape EntityType="RestGest.ItemMenu" Width="1.5" PointX="7.5" PointY="5.375" />
+        <EntityTypeShape EntityType="RestGest.metodoPagamento" Width="1.5" PointX="1.125" PointY="10.875" />
+        <AssociationConnector Association="RestGest.PessoaMorada" />
+        <AssociationConnector Association="RestGest.MoradaRestaurante" />
+        <AssociationConnector Association="RestGest.RestauranteTrabalhador" />
+        <AssociationConnector Association="RestGest.RestaurantePedido" />
+        <AssociationConnector Association="RestGest.RestauranteItemMenu" />
+        <AssociationConnector Association="RestGest.ItemMenuCategoria" />
+        <AssociationConnector Association="RestGest.ItemMenuPedido" />
+        <InheritanceConnector EntityType="RestGest.Cliente" />
+        <InheritanceConnector EntityType="RestGest.Trabalhador" />
+        <AssociationConnector Association="RestGest.ClientePedido" />
+        <AssociationConnector Association="RestGest.PedidoPagamento" />
+        <AssociationConnector Association="RestGest.PagamentometodoPagamento" />
+        <AssociationConnector Association="RestGest.PedidoEstado" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

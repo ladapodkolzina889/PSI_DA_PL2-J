@@ -1,0 +1,15 @@
+C:\Users\2213180\source\repos\Projeto_DA\Projeto_DA\bin\Debug\Projeto_DA.exe.config
+C:\Users\2213180\source\repos\Projeto_DA\Projeto_DA\bin\Debug\Projeto_DA.exe
+C:\Users\2213180\source\repos\Projeto_DA\Projeto_DA\bin\Debug\Projeto_DA.pdb
+C:\Users\2213180\source\repos\Projeto_DA\Projeto_DA\obj\Debug\Projeto_DA.csproj.AssemblyReference.cache
+C:\Users\2213180\source\repos\Projeto_DA\Projeto_DA\obj\Debug\Projeto_DA.Form1.resources
+C:\Users\2213180\source\repos\Projeto_DA\Projeto_DA\obj\Debug\Projeto_DA.Properties.Resources.resources
+C:\Users\2213180\source\repos\Projeto_DA\Projeto_DA\obj\Debug\Projeto_DA.csproj.GenerateResource.cache
+C:\Users\2213180\source\repos\Projeto_DA\Projeto_DA\obj\Debug\Projeto_DA.csproj.CoreCompileInputs.cache
+C:\Users\2213180\source\repos\Projeto_DA\Projeto_DA\obj\Debug\Projeto_DA.exe
+C:\Users\2213180\source\repos\Projeto_DA\Projeto_DA\obj\Debug\Projeto_DA.pdb
+C:\Users\2213180\source\repos\Projeto_DA\Projeto_DA\bin\Debug\EntityFramework.dll
+C:\Users\2213180\source\repos\Projeto_DA\Projeto_DA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\2213180\source\repos\Projeto_DA\Projeto_DA\bin\Debug\EntityFramework.xml
+C:\Users\2213180\source\repos\Projeto_DA\Projeto_DA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\2213180\source\repos\Projeto_DA\Projeto_DA\obj\Debug\Projeto_DA.csproj.CopyComplete
